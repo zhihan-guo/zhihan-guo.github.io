@@ -134,3 +134,10 @@ body {
     width: 220px;
   }
 }
+
+.footer {
+    border-top:1px solid #e0e0e0;
+    padding-top:40px;
+    padding-bottom: 40px;
+    margin-top: 40px;
+}
